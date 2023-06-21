@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>208068800642-re1f7iilk89oe0d19qr02c0ioj4l7m3v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.208068800642-re1f7iilk89oe0d19qr02c0ioj4l7m3v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBVX84DoyJXBjNcMn48TYIWOvNPEL1YO4w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>208068800642</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.nepaltop</string>
+	<key>PROJECT_ID</key>
+	<string>nepal-top-f8814</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nepal-top-f8814.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:208068800642:ios:d9e29b9f266a905728849b</string>
+</dict>
+</plist>
