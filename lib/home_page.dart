@@ -173,7 +173,7 @@ class _ProfilePageState extends State<HomePage> {
                 children: <Widget>[
                   UserAccountsDrawerHeader(
                     accountName: const Text('Sky'),
-                    accountEmail: const Text('sky111@gmai.com'),
+                    accountEmail: const Text('sky111@gmail.com'),
                     currentAccountPicture: CircleAvatar(
                       child: ClipOval(
                         child: Image.network(

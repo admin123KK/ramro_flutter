@@ -120,7 +120,7 @@ class _RegisterPageState extends State<RegisterPage> {
                     height: 50,
                   ),
                   Text(
-                    'Welcome back you\'ve been missed!',
+                    'Namaste and Enjoy our service\'s !',
                     style: TextStyle(
                       color: Colors.grey[700],
                       fontSize: 16,
